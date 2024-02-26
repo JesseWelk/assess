@@ -4,7 +4,7 @@ const Header = () => {
     return (
         <header className="text-black body-font bg-[#FC9F5B]">
             <div className="container mx-auto flex flex-wrap p-5 flex-col md:flex-row items-center">
-                <img src="/../images/Oddball.svg" width={200} height={200} className="bg-[#FBFFF4] rounded-xl pt-3 pl-2 mr-3"></img>
+                <img src="/../images/Oddball.png" width={200} height={200} className="bg-[#FBFFF4] rounded-xl pt-3 pl-2 pr-2 mr-3"></img>
                 <nav className="md:ml-auto md:mr-auto flex flex-wrap items-center text-base justify-center md:pt-0 pt-5">
                     <a className="mr-5 hover:text-emerald-600 pl-5 text-xl drop-shadow bg-[#FC9F5B] pr-3 rounded-xl">Live Games</a>
                     <a className="mr-5 hover:text-emerald-600 text-xl drop-shadow bg-[#FC9F5B] pr-3 rounded-xl pl-5">Our Mission</a>
