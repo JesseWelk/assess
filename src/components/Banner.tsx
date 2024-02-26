@@ -46,7 +46,7 @@ const Banner = () => {
                         </div>
                         <div className="flex-grow">
                             <h2 className="text-black text-lg title-font font-medium mb-3">Make the right call</h2>
-                            <p className="leading-relaxed text-base max-w-sm">Our vast database of odd predictions will provide you the infromation you need. Have confidence in your picks with OddBalls live game and player predictions.</p>
+                            <p className="leading-relaxed text-base max-w-sm">Our vast database of odds predictions will provide you the infromation you need. Have confidence in your picks with OddBalls live game and player predictions.</p>
                             <a className="mt-3 text-orange-400 inline-flex items-center">Learn More
                             <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24" width="24" height="24" fill="none" stroke="currentcolor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round">
                                 <path d="M5 12h14M12 5l7 7-7 7"/>
