@@ -1,4 +1,5 @@
 import React from "react";
+import Spline from "@splinetool/react-spline";
 
 const Price = () => {
     return (
@@ -13,6 +14,9 @@ const Price = () => {
                         <div className="h-full p-6 rounded-lg border-2 border-emerald-600 flex flex-col relative overflow-hidden">
                             <h2 className="text-sm tracking-widest title-font mb-1 font-medium">CASUAL</h2>
                             <h1 className="text-5xl text-gray-900 pb-4 mb-4 border-b border-emerald-600 leading-none">Free</h1>
+                            <span>
+                            <Spline scene="https://prod.spline.design/MF1IE0-4UpfR8vw1/scene.splinecode" />
+                            </span>
                             <p className="flex items-center text-gray-500 mb-2">
                                 <span className="w-4 h-4 mr-2 inline-flex items-center justify-center bg-emerald-600 text-white rounded-full flex-shrink-0">
                                     <svg fill="none" stroke="currentColor" stroke-linecap="round" stroke-linejoin="round" stroke-width="2.5" className="w-3 h-3" viewBox="0 0 24 24">
@@ -49,6 +53,9 @@ const Price = () => {
                                 <span>$12</span>
                                 <span className="text-lg ml-1 font-normal text-gray-500">/mo</span>
                             </h1>
+                            <span>
+                            <Spline scene="https://prod.spline.design/kPNAL1tA6tUEkDvM/scene.splinecode" />
+                            </span>
                             <p className="flex items-center text-gray-500 mb-2">
                                 <span className="w-4 h-4 mr-2 inline-flex items-center justify-center bg-orange-400 text-white rounded-full flex-shrink-0">
                                     <svg fill="none" stroke="currentColor" stroke-linecap="round" stroke-linejoin="round" stroke-width="2.5" className="w-3 h-3" viewBox="0 0 24 24">
@@ -91,6 +98,9 @@ const Price = () => {
                                 <span>$22</span>
                                 <span className="text-lg ml-1 font-normal text-gray-500">/mo</span>
                             </h1>
+                            <span>
+                                
+                            </span>
                             <p className="flex items-center text-gray-500 mb-2">
                                 <span className="w-4 h-4 mr-2 inline-flex items-center justify-center bg-emerald-600 text-white rounded-full flex-shrink-0">
                                     <svg fill="none" stroke="currentColor" stroke-linecap="round" stroke-linejoin="round" stroke-width="2.5" className="w-3 h-3" viewBox="0 0 24 24">
