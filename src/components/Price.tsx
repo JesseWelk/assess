@@ -134,7 +134,7 @@ const Price = () => {
                                     <svg fill="none" stroke="currentColor" stroke-linecap="round" stroke-linejoin="round" stroke-width="2.5" className="w-3 h-3" viewBox="0 0 24 24">
                                         <path d="M20 6L9 17l-5-5"></path>
                                     </svg>
-                                </span>Access to fantasy-pro reccomendations
+                                </span>Access to pro-fantasy recomendations
                             </p>
                             <button className="flex items-center mt-auto text-white bg-emerald-600 border-0 py-2 px-4 w-full focus:outline-none hover:bg-gray-500 rounded">Select
                                 <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24" width="24" height="24" fill="none" className="w-4 h-4 ml-auto" stroke="currentcolor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round">
