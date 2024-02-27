@@ -1,4 +1,5 @@
 import React from "react";
+import Spline from "@splinetool/react-spline";
 
 const Banner = () => {
     return (
@@ -13,8 +14,8 @@ const Banner = () => {
                 </div>
                 <div className="flex flex-wrap max-[767px]:justify-center min -mb-10 -mt-4 md:space-y-0 space-y-6">
                     <div className="p-4 md:w-1/3 flex flex-col text-center items-center">
-                        <div className="w-20 h-20 inline-flex items-center justify-center rounded-full bg-orange-400 mb-5 flex-shrink-0">
-                            
+                        <div className="w-40 h-20 inline-flex items-center justify-center mb-5 flex-shrink-0">
+                        <Spline scene="https://prod.spline.design/EPMT-Xv3efp-jBgO/scene.splinecode" />
                         </div>
                         <div className="flex-grow">
                             <h2 className="text-black text-lg title-font font-medium mb-3">Don't miss a thing</h2>
@@ -27,8 +28,8 @@ const Banner = () => {
                         </div>
                     </div>
                     <div className="p-4 md:w-1/3 flex flex-col text-center items-center">
-                        <div className="w-20 h-20 inline-flex items-center justify-center rounded-full bg-orange-400 mb-5 flex-shrink-0">
-                            
+                        <div className="w-50 h-20 inline-flex items-center justify-center mb-5 flex-shrink-0">
+                        <Spline scene="https://prod.spline.design/DhcPUXCnGqv5RsOq/scene.splinecode" />
                         </div>
                         <div className="flex-grow">
                             <h2 className="text-black text-lg title-font font-medium mb-3">Follow your favorties</h2>
@@ -41,8 +42,8 @@ const Banner = () => {
                         </div>
                     </div>
                     <div className="p-4 md:w-1/3 flex flex-col text-center items-center">
-                        <div className="w-20 h-20 inline-flex items-center justify-center rounded-full bg-orange-400 mb-5 flex-shrink-0">
-                            
+                        <div className="w-50 h-20 inline-flex items-center justify-center mb-5 flex-shrink-0">
+                        <Spline scene="https://prod.spline.design/SKHcsTS3mSlmGL0x/scene.splinecode" />
                         </div>
                         <div className="flex-grow">
                             <h2 className="text-black text-lg title-font font-medium mb-3">Make the right call</h2>

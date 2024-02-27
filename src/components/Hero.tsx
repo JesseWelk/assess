@@ -17,7 +17,7 @@ const Hero = () => {
                         <button className="inline-flex text-white bg-[#FC9F5B] border-0 py-2 px-6 focus:outline-none hover:bg-emerald-600 rounded text-lg">Sign up</button>
                     </div>
                 </div>
-                <div className="w-100 h-100">
+                <div className="w-100 h-100 max-[520px]:pt-20">
                 <Spline scene="https://prod.spline.design/9cM1XeydgAHIqP72/scene.splinecode" />
                 </div>
             </div>

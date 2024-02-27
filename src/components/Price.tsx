@@ -99,7 +99,7 @@ const Price = () => {
                                 <span className="text-lg ml-1 font-normal text-gray-500">/mo</span>
                             </h1>
                             <span>
-                                
+                            <Spline scene="https://prod.spline.design/6SblvPGaVwnwlii8/scene.splinecode" />
                             </span>
                             <p className="flex items-center text-gray-500 mb-2">
                                 <span className="w-4 h-4 mr-2 inline-flex items-center justify-center bg-emerald-600 text-white rounded-full flex-shrink-0">
